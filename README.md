@@ -1,4 +1,3 @@
-### ERGDxD⚡
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=03FF&height=300&section=header&text=ERRORGODxD&fontSize=90)
 
