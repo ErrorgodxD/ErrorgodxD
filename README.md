@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=03FF&height=300&section=header&text=ERRORGODxD&fontSize=90)
+
+
+![ERRORGODxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&showicons=true&theme=tokyonight)
+
+
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 <!--
 **ErrorgodxD/ErrorgodxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
