@@ -50,7 +50,7 @@
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${JadenMeister}&tag=${태그}&color=${white})](${https://velog.io/@jaden10901/posts})
+
  
 </div>
 
