@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=03FF&height=300&section=header&text=JadeN_Meister&fontSize=90&fontColor=7B68EE)
+![header](https://capsule-render.vercel.app/api?type=venom&color=03FF&height=300&section=header&text=JadeN_meister&fontSize=90&fontColor=7B68EE)
 
 
 
