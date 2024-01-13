@@ -35,7 +35,7 @@
   
   <h3 align="center"> 📫 CONTACT ME</h3>
   <div align="center">
-   <a href="https://www.instagram.com/jadenmeister_/" target="_blank"><img src="https://img.shields.io/badge/INSTA-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
+<!--    <a href="https://www.instagram.com/jadenmeister_/" target="_blank"><img src="https://img.shields.io/badge/INSTA-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp -->
     <a href="https://www.linkedin.com/in/jaden-choi-16a541227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
     
   
