@@ -1,5 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=03FF&height=300&section=header&text=JadeN_meister&fontSize=90&fontColor=7B68EE)
+<!--![header](https://capsule-render.vercel.app/api?type=venom&color=03FF&height=300&section=header&text=JadeN_meister&fontSize=90&fontColor=7B68EE)-->
+
+
+![header](https://github.com/ErrorgodxD/ErrorgodxD/assets/99065719/da770914-047a-4de6-be0a-98972ed0be71)
 
 
 
