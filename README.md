@@ -25,7 +25,7 @@
   <h3 align="center"> 🌱 I’m currently learning</h3>
   <div align="center">
    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-    <img src="https://img.shields.io/badge/nextdotjs-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/nextdotjs-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=#000000" />
   </div>
   
   
