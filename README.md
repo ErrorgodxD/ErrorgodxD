@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
-    
-  
   </div>
   
   <div align="center">
@@ -42,8 +40,6 @@
   <div align="center">
 <!--    <a href="https://www.instagram.com/jadenmeister_/" target="_blank"><img src="https://img.shields.io/badge/INSTA-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp -->
     <a href="https://www.linkedin.com/in/jaden-choi-16a541227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
-    
-  
   </div>
   
   ![ERRORGODxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&showicons=true&show=count_private=true&theme=tokyonight)
@@ -56,8 +52,6 @@
 </div>
 
 <div align="center" style="text-align:center">
-
-
  
 </div>
 
