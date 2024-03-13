@@ -38,7 +38,7 @@
   </div>
   
   ![ERRORGODxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&showicons=true&show=countprivate=true&theme=tokyonight)
-  [![JadeN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeNmesiter)](https://github.com/JadeNmesiter/github-readme-stats)
+  [![JadeN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD)](https://github.com/ErrorgodxD/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorgodxD&show=countprivate=truet&layout=compact&theme=tokyonight)
   <a href="https://github.com/ErrorgodxD/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErrorgodxD&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
