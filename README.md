@@ -38,7 +38,7 @@
   </div>
   
   ![ERRORGODxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&showicons=true&show=count_private=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorgodxD&show=count_private=true&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorgodxD&show=count&layout=compact&private=true&theme=tokyonight)
   <a href="https://github.com/Uguls/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErrorgodxD&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
