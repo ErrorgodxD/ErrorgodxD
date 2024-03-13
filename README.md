@@ -37,7 +37,9 @@
     <a href="https://www.linkedin.com/in/jaden-choi-16a541227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
   </div>
   
-  [![ERRORGODxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&count_private=trueshowicons=true&show=&theme=tokyonight)
+  ![ERRORGODxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&count_private=trueshowicons=true&show=&theme=tokyonight)
+  ![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadenMeister&count_private=true)
+
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorgodxD&show=countprivate=truet&layout=compact&theme=tokyonight)
   <a href="https://github.com/ErrorgodxD/github-readme-activity-graph">
