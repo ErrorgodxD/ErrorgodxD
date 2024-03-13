@@ -38,6 +38,8 @@
   </div>
   
   [![ERRORGODxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&showicons=true&show=count_private=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&hide=stars,contribs&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Uguls&show_icons=true&theme=dark" width=56%/>
+  
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorgodxD&show=countprivate=truet&layout=compact&theme=tokyonight)
   <a href="https://github.com/ErrorgodxD/github-readme-activity-graph">
