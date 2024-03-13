@@ -38,7 +38,7 @@
   </div>
   
   ![ERRORGODxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&count_private=trueshowicons=true&show=&theme=tokyonight)
-  ![JadeNMeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeNMeister&count_private=true)
+  ![JadeNMeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErrorgodxD&count_private=true)
 
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorgodxD&show=countprivate=truet&layout=compact&theme=tokyonight)
