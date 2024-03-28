@@ -1,7 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=venom&color=03FF&height=300&section=header&text=JadeN_meister&fontSize=90&fontColor=7B68EE)-->
 
 ![header](https://github.com/ErrorgodxD/ErrorgodxD/assets/99065719/4d75637d-418d-46f0-8640-2894f8d74235)
-
 <div align="center">
   <h3 align="center">✨ Tech Stack ✨</h3>ㅣ
   <div align="center">
