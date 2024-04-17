@@ -2,7 +2,7 @@
 
 ![header](https://github.com/ErrorgodxD/ErrorgodxD/assets/99065719/4d75637d-418d-46f0-8640-2894f8d74235)
 <div align="center">
-  <h3 align="center">✨ Tech Stack ✨</h3>ㅣ
+  <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
