@@ -16,7 +16,7 @@
 
   <div align="center">
     <h3 align="center">📋Resume</h3>
-   <a href="https://drive.google.com/file/d/1yU2cZmckIKcI65Lv0nkitFAQbBMlaYgi/view?usp=sharing"/>
+   <a href="https://drive.google.com/file/d/1yU2cZmckIKcI65Lv0nkitFAQbBMlaYgi/view?usp=sharing">Resume</a>
   </div>
   
   <h3 align="center"> 🌱 I’m currently learning</h3>
