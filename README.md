@@ -35,7 +35,7 @@
     <a href="https://www.linkedin.com/in/jaden-choi-16a541227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
   </div>
   
-  ![ERRORGODxD's GitHub stats](github-readme-stats-beige-omega-79.vercel.app/api?username=ErrorgodxD&theme=tokyonight&show_icons=true&hide_border=true)
+  ![ERRORGODxD's GitHub stats](https://github-readme-stats-beige-omega-79.vercel.app/api?username=ErrorgodxD&theme=tokyonight&show_icons=true&hide_border=true)
 
 
  
